@@ -1,0 +1,463 @@
+Critically Endangered
+-------------------------
+mAnimalsList.add("Black Rhinoceros");
+mAnimalsList.add("Borneo Elephant");
+mAnimalsList.add("Cottontop Tamarin");
+mAnimalsList.add("Cross River Gorilla");
+mAnimalsList.add("Javan Rhinoceros");
+mAnimalsList.add("Monte Iberia Eleuth");
+mAnimalsList.add("Radiated Tortoise");
+mAnimalsList.add("Red Wolf");
+mAnimalsList.add("Saola");
+mAnimalsList.add("Sumatran Elephant");
+mAnimalsList.add("Sumatran Orang-utan");
+mAnimalsList.add("Sumatran Rhinoceros");
+mAnimalsList.add("Western Gorilla");
+mAnimalsList.add("Western Lowland Gorilla");
+
+Endangered
+-------------------------
+African Forest Elephant
+African Penguin
+African Wild Dog
+Albatross
+Armadillo
+Asian Elephant
+Asiatic Black Bear
+Axolotl
+Aye Aye
+Bactrian Camel
+Bandicoot
+Bear
+Bengal Tiger
+Blue Whale
+Bonobo
+Bornean Orang-utan
+Brown Bear
+Butterfly Fish
+Chimpanzee
+Chinchilla
+Dhole
+Eastern Gorilla
+Eastern Lowland Gorilla
+Fin Whale
+Fishing Cat
+Fossa
+Galapagos Penguin
+Galapagos Tortoise
+Gharial
+Giant Panda Bear
+Golden Lion Tamarin
+Grizzly Bear
+Honey Bee
+Hummingbird
+Indian Elephant
+Indian Rhinoceros
+Indochinese Tiger
+Indri
+Kakapo
+Killer Whale
+Macaw
+Magellanic Penguin
+Malayan Tiger
+Manatee
+Markhor
+Mongoose
+Mountain Gorilla
+Numbat
+Parrot
+Pied Tamarin
+Proboscis Monkey
+Pygmy Hippopotamus
+Red Panda
+Rhinoceros
+River Dolphin
+Sea Otter
+Sea Turtle
+Seahorse
+Siberian Tiger
+Sloth
+South China Tiger
+Spectacled Bear
+Sri Lankan Elephant
+Sumatran Tiger
+Tapir
+Tarsier
+Tiger
+Tortoise
+Vulture
+Water Buffalo
+White Rhinoceros
+White Tiger
+Wildebeest
+Wombat
+Yellow-Eyed Penguin
+Vulnerable
+Aldabra Giant Tortoise
+Asian Palm Civet
+Banded Palm Civet
+Binturong
+Cassowary
+Cheetah
+Clouded Leopard
+Crested Penguin
+Darwin's Frog
+Dwarf Crocodile
+Hippopotamus
+Humboldt Penguin
+Komodo Dragon
+Lion
+Malayan Civet
+Masked Palm Civet
+Polar Bear
+Quokka
+Royal Penguin
+Sperm Whale
+Sun Bear
+Uakari
+Umbrellabird
+Threatened
+African Bush Elephant
+Angelfish
+Anteater
+Asian Giant Hornet
+Badger
+Basking Shark
+Beaver
+Bison
+Bumble Bee
+Caiman
+Catfish
+Chameleon
+Chicken
+Coral
+Cow
+Crab
+Crane
+Crocodile
+Cuscus
+Cuttlefish
+Deer
+Desert Tortoise
+Dingo
+Discus
+Dolphin
+Donkey
+Dragonfly
+Dugong
+Eagle
+Elephant
+Falcon
+Ferret
+Fox
+Frog
+Fur Seal
+Gecko
+Giant Clam
+Gibbon
+Gila Monster
+Glow Worm
+Gopher
+Gorilla
+Great White Shark
+Grey Reef Shark
+Grey Seal
+Hammerhead Shark
+Hare
+Hercules Beetle
+Hermit Crab
+Horse
+Hyena
+Iguana
+Indian Star Tortoise
+Jaguar
+Japanese Macaque
+Kangaroo
+King Crab
+Kingfisher
+Kiwi
+Ladybird
+Leaf-Tailed Gecko
+Lemming
+Leopard Seal
+Leopard Tortoise
+Lizard
+Macaroni Penguin
+Magpie
+Mandrill
+Mayfly
+Minke Whale
+Mole
+Molly
+Monitor Lizard
+Moth
+Nurse Shark
+Olm
+Otter
+Pademelon
+Panther
+Penguin
+Pink Fairy Armadillo
+Poison Dart Frog
+Purple Emperor
+Puss Moth
+Pygmy Marmoset
+Quetzal
+Quoll
+Red Knee Tarantula
+River Turtle
+Robin
+Salamander
+Sand Lizard
+Sea Dragon
+Sea Lion
+Sea Squirt
+Sea Urchin
+Seal
+Shrimp
+Snapping Turtle
+Spiny Dogfish
+Sponge
+Squirrel
+Stag Beetle
+Starfish
+Stick Insect
+Stingray
+Swan
+Tang
+Tasmanian Devil
+Tawny Owl
+Tiger Shark
+Tuatara
+Water Dragon
+Whale Shark
+Wolf
+Wolverine
+Woolly Monkey
+Yak
+Zebra Shark
+Near Threatened
+Bongo
+Gentoo Penguin
+Leopard
+Manta Ray
+Okapi
+Walrus
+Least Concern
+Adelie Penguin
+African Civet
+African Clawed Frog
+African Palm Civet
+African Tree Toad
+Alligator
+Ant
+Antelope
+Arctic Fox
+Arctic Hare
+Arctic Wolf
+Avocet
+Baboon
+Barb
+Barn Owl
+Barnacle
+Barracuda
+Bat
+Bearded Dragon
+Beetle
+Birds Of Paradise
+Black Bear
+Black Widow Spider
+Bobcat
+Booby
+Bottle Nosed Dolphin
+Budgerigar
+Buffalo
+Bull Shark
+Bullfrog
+Burrowing Frog
+Butterfly
+Caiman Lizard
+Capybara
+Caracal
+Caterpillar
+Centipede
+Chamois
+Chinstrap Penguin
+Chipmunk
+Cichlid
+Clown Fish
+Coati
+Cockroach
+Collared Peccary
+Common Buzzard
+Common Frog
+Common Loon
+Common Toad
+Cougar
+Coyote
+Crab-Eating Macaque
+Dormouse
+Duck
+Earwig
+Echidna
+Edible Frog
+Electric Eel
+Elephant Seal
+Elephant Shrew
+Emperor Penguin
+Emperor Tamarin
+Emu
+Fennec Fox
+Fire-Bellied Toad
+Flamingo
+Flounder
+Fly
+Flying Squirrel
+Frigatebird
+Frilled Lizard
+Gar
+Geoffroys Tamarin
+Gerbil
+Giant African Land Snail
+Giraffe
+Glass Lizard
+Goat
+Golden Oriole
+Goose
+Grasshopper
+Green Bee-Eater
+Grey Mouse Lemur
+Grouse
+Guinea Fowl
+Guinea Pig
+Guppy
+Hamster
+Hedgehog
+Heron
+Highland Cattle
+Horned Frog
+Horseshoe Crab
+Howler Monkey
+Human
+Humpback Whale
+Ibis
+Impala
+Indian Palm Squirrel
+Insect
+Jackal
+Jellyfish
+Keel Billed Toucan
+King Penguin
+Koala
+Kudu
+Lemur
+Leopard Cat
+Lionfish
+Little Penguin
+Llama
+Lobster
+Long-Eared Owl
+Lynx
+Marine Toad
+Marsh Frog
+Meerkat
+Millipede
+Monkey
+Moorhen
+Moose
+Moray Eel
+Mountain Lion
+Mouse
+Mule
+Newt
+Nightingale
+Ocelot
+Octopus
+Opossum
+Ostrich
+Oyster
+Patas Monkey
+Peacock
+Pelican
+Pheasant
+Pig
+Pika
+Pike
+Piranha
+Platypus
+Pond Skater
+Pool Frog
+Porcupine
+Possum
+Prawn
+Puffer Fish
+Puffin
+Puma
+Quail
+Rabbit
+Raccoon
+Raccoon Dog
+Rat
+Red-handed Tamarin
+Reindeer
+Rock Hyrax
+Rockhopper Penguin
+Roseate Spoonbill
+Scorpion
+Scorpion Fish
+Sea Slug
+Serval
+Sheep
+Siamese Fighting Fish
+Silver Dollar
+Skunk
+Slow Worm
+Snail
+Snowy Owl
+Spadefoot Toad
+Sparrow
+Spider Monkey
+Squid
+Squirrel Monkey
+Stoat
+Striped Rocket Frog
+Termite
+Tetra
+Thorny Devil
+Tiger Salamander
+Toucan
+Tree Frog
+Tropicbird
+Turkey
+Uguisu
+Vampire Bat
+Vervet Monkey
+Wallaby
+Warthog
+Wasp
+Water Vole
+Weasel
+White Faced Capuchin
+Wild Boar
+Woodlouse
+Woodpecker
+Wrasse
+Zebu
+Common
+Camel
+Data Deficient
+Dusky Dolphin
+Horn Shark
+
+Endangered, Critically Endangered
+-------------------------
+Orang-utan
+
+Endangered/Least Concern
+-------------------------
+Zebra
+None
+Liger
+Zonkey
+Zorse
+X-Ray Tetra

@@ -1,19 +1,19 @@
 Critically Endangered
 -------------------------
-mAnimalsList.add("Black Rhinoceros");
-mAnimalsList.add("Borneo Elephant");
-mAnimalsList.add("Cottontop Tamarin");
-mAnimalsList.add("Cross River Gorilla");
-mAnimalsList.add("Javan Rhinoceros");
-mAnimalsList.add("Monte Iberia Eleuth");
-mAnimalsList.add("Radiated Tortoise");
-mAnimalsList.add("Red Wolf");
-mAnimalsList.add("Saola");
-mAnimalsList.add("Sumatran Elephant");
-mAnimalsList.add("Sumatran Orang-utan");
-mAnimalsList.add("Sumatran Rhinoceros");
-mAnimalsList.add("Western Gorilla");
-mAnimalsList.add("Western Lowland Gorilla");
+Black Rhinoceros
+Borneo Elephant
+Cottontop Tamarin
+Cross River Gorilla
+Javan Rhinoceros
+Monte Iberia Eleuth
+Radiated Tortoise
+Red Wolf
+Saola
+Sumatran Elephant
+Sumatran Orang-utan
+Sumatran Rhinoceros
+Western Gorilla
+Western Lowland Gorilla
 
 Endangered
 -------------------------
@@ -116,7 +116,9 @@ Sperm Whale
 Sun Bear
 Uakari
 Umbrellabird
+
 Threatened
+-------------------------
 African Bush Elephant
 Angelfish
 Anteater
@@ -243,7 +245,9 @@ Leopard
 Manta Ray
 Okapi
 Walrus
+
 Least Concern
+-------------------------
 Adelie Penguin
 African Civet
 African Clawed Frog
